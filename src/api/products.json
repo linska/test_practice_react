@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Milk", "categoryId": 1, "userId": 1 },
+  { "id": 2, "name": "Bread", "categoryId": 2, "userId": 2 },
+  { "id": 3, "name": "Jacket", "categoryId": 3, "userId": 3 },
+  { "id": 4, "name": "Banana", "categoryId": 4, "userId": 2 },
+  { "id": 5, "name": "Beer", "categoryId": 1, "userId": 1 }
+]
